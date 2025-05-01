@@ -29,6 +29,10 @@ font-family: sans-serif;
     min-height: calc(100vh - 60px); /* Adjust height minus topbar */
 }
 
+.container-content{
+    display: flex;
+}
+
 .container .sidebar h2{
     text-align: center;
     padding-top: 15px;
